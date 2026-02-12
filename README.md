@@ -1,8 +1,8 @@
-# jhw53105.github.io
-Github.io is a website
+# About Me!
+My name is Jacob Wheeler. I am a junior at UW - Eau Claire and I am majoring in Astrophysics with a minor in Computer Science.
 
 
-## Sub section
-type stuff
-
-Other stuff!
+## Hobbies
+- Going to the gym
+- Playing video games
+- Hanging out with friends
